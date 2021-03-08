@@ -21,4 +21,28 @@ Task 2
  Insulin: 2-Hour serum insulin (mu U/ml) , BMI: Body mass index (weight in kg/(height in m)^2) , 
  DiabetesPedigreeFunction: Diabetes pedigree function , Age: Age (years) , Outcome: Class variable (0 or 1)
 
-<a href="https://ibb.co/tZxvt1J"><img src="https://i.ibb.co/Xy3KgGC/t1.png" alt="t1" border="0"></a>
+
+<a href="https://ibb.co/tZxvt1J"><img src="https://i.ibb.co/Xy3KgGC/t1.png" alt="t1" border="0"></a>  <a href="https://ibb.co/ThnZ1Gg"><img src="https://i.ibb.co/x5cyYb7/t2.png" alt="t2" border="0"></a>
+
+Since it looks like there is no missing values. But in descriptive statistics we have seen that some variables have minimum = 0 
+and pregnancy variable has maximum = 17 which is not making sense. So let us explore these variables 
+and treat them accordingly
+
+Eventhough the Datatypes are perfect , But we can change Outcome to boolean datatype which will have an impact
+ in -Space Complexity
+
+## Data Cleaning and Preprocessing is Done for each attribute
+
+## Pregnancies
+  
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/QKzTCwr/t3.png" alt="t3" border="0"></a>
+ We can see that minimum is 0 which may be considered as no Pregnancy, But maximum is 17 which is not making sense. 
+Let us see distribution and also boxplot for outliers¶
+<a href="https://ibb.co/vBL1zpX"><img src="https://i.ibb.co/H2G7g6h/t4.png" alt="t4" border="0"></a>
+
+## Understanding Distribution Of Pregnancies¶
+The distribution of Pregnancies in data is unimodal and skewed to the right, centered at about 1 with 
+most of the data between 0 and 15, A range of roughly 15, and outliers are present on the higher end.
+
+Note :- BoxPlot of both categories shows that People with higher pregnancy months have higher risk of Diabetes
+ (There is not statistical evidence, May be i will be testing a hypothesis)

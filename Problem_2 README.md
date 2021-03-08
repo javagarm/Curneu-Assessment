@@ -96,8 +96,30 @@ We can see there are many outliers. So i will fill 0 with Median of Insulin. I w
 
 ## BMI
 <a href="https://ibb.co/vhfQyc4"><img src="https://i.ibb.co/KDBL45x/q3.png" alt="q3" border="0"></a>
+Outliers are considerable, So i will replace zero with mean.¶
 
 ## DPF
 <a href="https://ibb.co/808cFb1"><img src="https://i.ibb.co/VtBmXxf/dpf.png" alt="dpf" border="0"></a>
+Now we are done with missing value and Outliers. Let us take a look at data and then move ahead with other steps.¶
 
+
+## Let us take a closer look at data by doing a quick VISUALIZATION
+Well, Pregnancies, Insulin, DBF and Age having skewed distribution.
+ We know most of the machine learning models uses assumpton of normality so these variables might need to be scaled, 
+But we may consider the assumption to be true according Central Limit Theorem that if number of observation is large 
+we can consider the distribution to be normal or bell shaped. Removing Outliers may also help us to achieve normal distribution 
+of that variable.It looks like Glucose, BP and BMI variables have some outliers.
+
+Variables are not correlated strongly with each other.
+
+## Let us Plot pairplot according to outcome
+data points are spread non linear, Fitting tree based models might help us to get better accuracy or SVC with Non Linear Decision Boundry.
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/6mXTyJF/fffffff.png" alt="fffffff" border="0"></a>
+## 
+"Correlation"
+Nice, Variables are not much associated linearly.
+<a href="https://ibb.co/nDc4PKs"><img src="https://i.ibb.co/wKW8c2N/a1.png" alt="a1" border="0"></a>
+## ON Comparing All Models SVC has the maximum Accuracy
+<a href="https://ibb.co/6ZQGrsL"><img src="https://i.ibb.co/W3C7GKj/11111.png" alt="11111" border="0"></a>
+<a href="https://ibb.co/gR3m19n"><img src="https://i.ibb.co/9rNcXgM/aaa11111.png" alt="aaa11111" border="0"></a>
+  

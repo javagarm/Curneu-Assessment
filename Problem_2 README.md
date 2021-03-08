@@ -21,4 +21,4 @@ Task 2
  Insulin: 2-Hour serum insulin (mu U/ml) , BMI: Body mass index (weight in kg/(height in m)^2) , 
  DiabetesPedigreeFunction: Diabetes pedigree function , Age: Age (years) , Outcome: Class variable (0 or 1)
 
-<a href="https://ibb.co/tZxvt1J"><img src="https://i.ibb.co/tZxvt1J/t1.png" alt="t1" border="0"></a>
+<a href="https://ibb.co/tZxvt1J"><img src="https://i.ibb.co/Xy3KgGC/t1.png" alt="t1" border="0"></a>

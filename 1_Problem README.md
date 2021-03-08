@@ -27,5 +27,25 @@ Task 2
 ### Top 20 country with highest number of Malaria Cases
 
 <a href="https://ibb.co/8K69Z5d"><img src="https://i.ibb.co/Tvmt38b/s1.png" alt="s1" border="0"></a>
+## Top 20 country with highest number of Death Cases
 
 <a href="https://ibb.co/hCBR1N0"><img src="https://i.ibb.co/stKvJ47/s2.png" alt="s2" border="0"></a>
+## WHO regions with highest number of Cases from 2000 to 2018
+<a href="https://ibb.co/qyvXrSm"><img src="https://i.ibb.co/TvspgfP/s4.png" alt="s4" border="0"></a>
+<a href="https://ibb.co/GMd0rHT"><img src="https://i.ibb.co/2MFypZN/s3.png" alt="s3" border="0"></a>
+## WHO region with highest number of Deaths from 2000 to 2018
+<a href="https://ibb.co/G5MjgDW"><img src="https://i.ibb.co/jrwF7Yy/s6.png" alt="s6" border="0"></a>
+<a href="https://ibb.co/KrjZfFg"><img src="https://i.ibb.co/wzNHPMq/s5.png" alt="s5" border="0"></a>
+Highest number of Cases from 2000 to 2018 according to countries
+<a href="https://ibb.co/yf22pRb"><img src="https://i.ibb.co/mDpp0BM/s8.png" alt="s8" border="0"></a>
+Highest number of Death Cases from 2000 to 2018 according to countries
+<a href="https://ibb.co/mCZnx4t"><img src="https://i.ibb.co/7JM39KV/s7.png" alt="s7" border="0"></a>
+## Spreading of malaria accordance with each year
+<a href="https://ibb.co/vVBBZMr"><img src="https://i.ibb.co/k5yyQPr/s9.png" alt="s9" border="0"></a>
+"Situation of Malaria Over the World"
+<a href="https://ibb.co/H7M459w"><img src="https://i.ibb.co/b1ymcGw/s11.png" alt="s11" border="0"></a>
+## Observing the graph, the trends show that the numbers are declining for both. Its small yearly decrease
+ for Africa region, whereas, for other regions, it's a good yearly decrease.¶
+
+## Observing all the graphs, the following conclusions can be drawn
+# For all the regions, except Afirca, the cases are declining yearly. Africa shows a steady decrease, but not a huge decrease

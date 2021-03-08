@@ -61,3 +61,43 @@ The distribution of Glucose level among patients is unimodal and roughly bell sh
 Note :- BoxPlot of both categories shows that People with higher Glucose level have higher risk of Diabetes 
 (There is not statistical evidence, May be i will be testing a hypothesis ) We can also see that
  some outliers are present on non diabetic patient observation.
+
+## BloodPressure
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/cQYV0yy/t7.png" alt="t7" border="0"></a>
+We can see that minimum is 0 which may be considered as no Blood Pressure,which is quite impossible to believe. 
+<a href="https://ibb.co/R33jWm7"><img src="https://i.ibb.co/fkkD75Q/t8.png" alt="t8" border="0"></a>
+## Understanding Distribution
+The distribution of BloodPressure among patients is unimodal (This is not a bimodal because BP=0 does not possible
+ and it is Outlier) and bell shaped, centered at about 65 with most of the data between 60 and 90, A range of roughly 100,
+ and outliers are present on the lower end(BP ==0).
+
+Note :- BoxPlot of both categories shows that there is a little association of BP with Diabetic VS Non-Diabetic patients.
+ We can also see that some outliers are present.
+
+It looks like there are few Outliers at both higher end and lower end. But at higher end maximum BP is 122, 
+So it is considerable. Now at lower end BP near 25 is not possible. So i will treat missing value with medium 
+and then i will also treat outliers.
+
+## SkinThickness
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/4FV8FqS/t9.png" alt="t9" border="0"></a>
+We can see that minimum is 0 which may be considered as no Skinthickness,which is quite impossible to believe. 
+<a href="https://ibb.co/BCnCCkf"><img src="https://i.ibb.co/KrKrrn5/q1.png" alt="q1" border="0"></a>
+
+## Understanding Distribution
+The distribution of SkinThickness among patients is looking like Bimodal (But i think,
+ This is not a bimodal because ST=0 which is not possible so far and it may effect distribution, and it is bell shaped,
+ centered at about 20 with most of the data between 15 and 45, A range of roughly 60, and outliers are present on the lower end(ST ==0).
+
+Note :- BoxPlot of both categories shows that there is a little association of ST among Diabetic VS Non-Diabetic patients.
+
+## Insulin
+<a href="https://ibb.co/ccmw8nK"><img src="https://i.ibb.co/rGW3prK/q2.png" alt="q2" border="0"></a>
+We can see there are many outliers. So i will fill 0 with Median of Insulin. I will also treat Outliers after removing zero.¶
+
+## BMI
+<a href="https://ibb.co/vhfQyc4"><img src="https://i.ibb.co/KDBL45x/q3.png" alt="q3" border="0"></a>
+
+## DPF
+<a href="https://ibb.co/808cFb1"><img src="https://i.ibb.co/VtBmXxf/dpf.png" alt="dpf" border="0"></a>
+
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/6mXTyJF/fffffff.png" alt="fffffff" border="0"></a>

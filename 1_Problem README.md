@@ -49,3 +49,12 @@ Highest number of Death Cases from 2000 to 2018 according to countries
 
 ## Observing all the graphs, the following conclusions can be drawn
 # For all the regions, except Afirca, the cases are declining yearly. Africa shows a steady decrease, but not a huge decrease
+Even total number of malaria cases are increasing, number of deaths decreases;
+
+In 2017 in Africa there were 28.8963 times more malaria cases than in all other regions combined;
+
+In 2017 96.6% of all malaria cases were reported in Africa;
+
+Countries with a biggest share of malaria cases in Africa: 13% - Democratic Republic of the Congo, 10% - Uganda, 9.9% - Nigeria;
+
+Total number of malaria cases in Africa increases, but number of malaria cases per 1000 population at risk, decreases, maybe it is because more and more people are getting at risk of beeing effected.

@@ -36,13 +36,28 @@ Eventhough the Datatypes are perfect , But we can change Outcome to boolean data
 ## Pregnancies
   
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/QKzTCwr/t3.png" alt="t3" border="0"></a>
- We can see that minimum is 0 which may be considered as no Pregnancy, But maximum is 17 which is not making sense. 
-Let us see distribution and also boxplot for outliers¶
+ We can see that minimum is 0 which may be considered as no Pregnancy, But maximum is 17 which is quite impossible to believe. 
+Let us see distribution and also boxplot for outliers
 <a href="https://ibb.co/vBL1zpX"><img src="https://i.ibb.co/H2G7g6h/t4.png" alt="t4" border="0"></a>
 
-## Understanding Distribution Of Pregnancies¶
+## Understanding Distribution Of Pregnancies
 The distribution of Pregnancies in data is unimodal and skewed to the right, centered at about 1 with 
 most of the data between 0 and 15, A range of roughly 15, and outliers are present on the higher end.
 
 Note :- BoxPlot of both categories shows that People with higher pregnancy months have higher risk of Diabetes
  (There is not statistical evidence, May be i will be testing a hypothesis)
+
+
+## Glucose
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/QMJT732/t6.png" alt="t6" border="0"></a>
+We can see that minimum is 0 which may be considered as no Glucose,  which is quite impossible to believe. 
+Let us see distribution and also boxplot for outliers
+<a href="https://ibb.co/jfHNvdt"><img src="https://i.ibb.co/bm70gxt/t5.png" alt="t5" border="0"></a>
+
+## Understanding Distribution Of Glucose Level
+The distribution of Glucose level among patients is unimodal and roughly bell shaped, centered at about
+115 with most of the data between 90 and 140, A range of roughly 150, and outliers are present on the lower end(Glucose ==0).
+
+Note :- BoxPlot of both categories shows that People with higher Glucose level have higher risk of Diabetes 
+(There is not statistical evidence, May be i will be testing a hypothesis ) We can also see that
+ some outliers are present on non diabetic patient observation.

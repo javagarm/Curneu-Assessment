@@ -119,7 +119,7 @@ data points are spread non linear, Fitting tree based models might help us to ge
 "Correlation"
 Nice, Variables are not much associated linearly.
 <a href="https://ibb.co/nDc4PKs"><img src="https://i.ibb.co/wKW8c2N/a1.png" alt="a1" border="0"></a>
-## ON Comparing All Models SVC has the maximum Accuracy
+## ON Implementing Logistic Regression, Decision Tree, Random Forest, XG Boost, KNN and Comparing All these Models SVC has the maximum Accuracy
 <a href="https://ibb.co/6ZQGrsL"><img src="https://i.ibb.co/W3C7GKj/11111.png" alt="11111" border="0"></a>
 <a href="https://ibb.co/gR3m19n"><img src="https://i.ibb.co/9rNcXgM/aaa11111.png" alt="aaa11111" border="0"></a>
   
